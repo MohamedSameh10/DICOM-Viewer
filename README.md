@@ -1,4 +1,4 @@
-# DICOM Image Viewer
+# DICOM Viewer
 ## Overview
 This DICOM (Digital Imaging and Communications in Medicine) viewer is designed to facilitate the visualization of medical images in multiple planes—axial, sagittal, and coronal. It offers an intuitive interface where users can navigate through slices in one plane while simultaneously viewing corresponding slices in the other two planes.
 
